@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Library Management System</string>
+    <string name="publisher_name">Publisher Name</string>
+    <string name="book_title">Book Title</string>
+    <string name="book_id">Book ID</string>
+    <string name="delete_existing_data">Delete Existing Data</string>
+    <string name="insert_new_data">Insert New Data</string>
+    <string name="update_data">Update Data</string>
+    <string name="view_data">View Data</string>
+    <string name="please_enter_the_book_details_below">Please enter the book details below</string>
+    <string name="library_management_system">Library Management System</string>
+    <string name="text">text</string>
+</resources>
